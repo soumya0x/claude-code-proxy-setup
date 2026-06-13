@@ -1,0 +1,6 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://cc.freemodel.dev/api",
+    "ANTHROPIC_API_KEY": "YOUR_PROXY_KEY_HERE"
+  }
+}
