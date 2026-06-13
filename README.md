@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ claude-code-proxy-setup
+# ⚡ claude-code-proxy-setup ⚡
 
 **Run Claude Code at a fraction of the cost — through a third-party proxy.**  
 Zero friction. Full power. No official API bills.
